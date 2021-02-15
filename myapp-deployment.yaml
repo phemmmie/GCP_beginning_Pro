@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: shard
+        image: shards
         ports:
         - containerPort: 8888
