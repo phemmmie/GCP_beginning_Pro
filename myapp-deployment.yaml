@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: shards
+        image: dura2477/shard-clust-games:master-blue
         ports:
         - containerPort: 8888
